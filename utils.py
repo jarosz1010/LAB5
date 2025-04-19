@@ -1,6 +1,8 @@
 """
 Provides some arithmetic functions
 """
+
+
 # przykladowe funkcje utils .py
 def add(a: int, b: int) -> int:
     """Return the sum of two input variables"""
