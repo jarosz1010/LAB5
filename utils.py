@@ -5,7 +5,7 @@ Provides some arithmetic functions
 def add(a: int, b: int) -> int:
     """Return the sum of two input variables"""
     return a + b
-#simple comment
+
 
 def subtract(a: int, b: int) -> int:
     """Return the substraction of two input variables"""
